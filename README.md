@@ -19,3 +19,60 @@ Data transformation using Power Query Editor functions to create dashboard-type 
 
 ![image](https://user-images.githubusercontent.com/78714438/168499965-170d5a3a-3673-41b9-bbee-c8993242a3de.png)
 
+- We separate the country code from the name.
+
+![image](https://user-images.githubusercontent.com/78714438/168500002-b9683eed-d2cf-4bbc-a64f-c12dd9531ec8.png)
+
+- We divide the code by custom delimiter, in this case we observe that all have a (space - space), so that will be the pattern that we will go to separate both data, taking from the left of the text.
+
+![image](https://user-images.githubusercontent.com/78714438/168500079-ab4a25eb-b279-4bc7-95fb-24d1efb61f1c.png)
+
+- Now we must remove the parentheses from the country name.
+
+![image](https://user-images.githubusercontent.com/78714438/168500086-dd79e76b-1efe-4e8f-94cf-af7cf413e894.png)
+
+- We use the function extract text between delimiters, in transform data so that it does not create another column.
+
+![image](https://user-images.githubusercontent.com/78714438/168500098-da1bfd36-456c-4013-94f4-964ad25809a3.png)
+
+![image](https://user-images.githubusercontent.com/78714438/168500106-70280281-5e27-450c-8b6b-f49fe1e5584d.png)
+
+- Now we must summarize the columns of the years, since having a single column per year makes it impossible to work with the data in this way, so we will use the function Override column dynamization.
+
+![image](https://user-images.githubusercontent.com/78714438/168500121-e245949f-c554-45e0-b3b2-99e7063a8f95.png)
+
+![image](https://user-images.githubusercontent.com/78714438/168500126-e94688f9-ab20-4a64-8af7-2ee18a3f576b.png)
+
+- We rename the column headings.
+
+![image](https://user-images.githubusercontent.com/78714438/168500133-3731655c-f8c8-4e01-ac08-5c50714d0e3d.png)
+
+
+![image](https://user-images.githubusercontent.com/78714438/168500137-f0ff9627-db06-4128-8a76-110e01bce364.png)
+
+- Assign the data type in the Expense column to "Currency".
+
+![image](https://user-images.githubusercontent.com/78714438/168500161-59682a65-8344-4d9f-a6f5-923853c33b5c.png)
+
+The others, being descriptive, remain as text.
+
+- We added a conditional column to create categories based on the amount of the expense.
+
+![image](https://user-images.githubusercontent.com/78714438/168500188-efdd2738-1e92-4805-8aa7-0917c5cc99ad.png)
+
+![image](https://user-images.githubusercontent.com/78714438/168500192-86f6f489-dda9-4fd4-a3fe-e1c1c4a128f3.png)
+
+- We added another data source to organize the groups by amount of income by country.
+
+![image](https://user-images.githubusercontent.com/78714438/168500207-06052514-3396-49b9-8010-b8ebf0ed0064.png)
+
+- As they are related by country code, Power Bi makes the relationship automatically. 
+
+![image](https://user-images.githubusercontent.com/78714438/168500224-d7488170-edb2-4f30-a616-a09c8cf1b255.png)
+
+
+
+
+
+
+
