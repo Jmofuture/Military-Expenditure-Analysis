@@ -71,6 +71,29 @@ The others, being descriptive, remain as text.
 ![image](https://user-images.githubusercontent.com/78714438/168500224-d7488170-edb2-4f30-a616-a09c8cf1b255.png)
 
 
+## Power BI
+
+- We adjust the category of the continent and country columns to location references. 
+
+![image](https://user-images.githubusercontent.com/78714438/168500405-29ff3bae-f075-475b-86db-f7665fa12cc3.png)
+
+- Four filters were added:
+- By continent
+
+![image](https://user-images.githubusercontent.com/78714438/168500652-9ed3401a-11ec-4dcb-ac26-2f620c02200b.png)
+
+- By expense group
+
+![image](https://user-images.githubusercontent.com/78714438/168500701-cc06c726-2f3e-4975-8f17-723db7e27867.png)
+
+- By income group
+
+![image](https://user-images.githubusercontent.com/78714438/168500736-b160fec9-cc25-4a08-ba61-76aacc1a98a1.png)
+
+- By year, from 1960 to 2018
+
+![image](https://user-images.githubusercontent.com/78714438/168500786-e860ac63-bb43-4382-a837-8d8714c44739.png)
+
 
 
 
