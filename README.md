@@ -94,6 +94,23 @@ The others, being descriptive, remain as text.
 
 ![image](https://user-images.githubusercontent.com/78714438/168500786-e860ac63-bb43-4382-a837-8d8714c44739.png)
 
+- A Donut chart was added with the percentage of spending by continent.
+
+![image](https://user-images.githubusercontent.com/78714438/168500994-db8dd130-b4bc-4ba4-ad9f-618363b7ebaa.png)
+
+- A bar chart was added detailing spending by country and segmented by income.
+
+![image](https://user-images.githubusercontent.com/78714438/168501076-6f87a4ae-07c4-4483-8e12-edc5b6b909f5.png)
+
+- A table was added with the total and average amount spent by continent and countries.
+
+![image](https://user-images.githubusercontent.com/78714438/168501163-65c70b16-c5b0-4fa5-ade2-06b84f716846.png)
+
+- A map was added detailing the level of spending segmented by income level.
+
+![image](https://user-images.githubusercontent.com/78714438/168501226-1fb41674-4c64-4b3c-82d4-9036c3470a26.png)
+
+
 
 
 
