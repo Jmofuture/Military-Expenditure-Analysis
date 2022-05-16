@@ -1,8 +1,21 @@
 # Military Expenditure Analysis
-### Analysis of military expenditures of more than 150 countries between 1960 and 2019 expressed in U.S. dollars.
+## Analysis of military expenditures of more than 150 countries between 1960 and 2019 expressed in U.S. dollars.
+
+### Power BI Course - Fundamentals Query Editor and ETL in Power BI. Transform Excel data and visualize it in a dashboard.
+
+![Captura de pantalla 2022-05-15 201434](https://user-images.githubusercontent.com/78714438/168501477-cc724450-1ae8-4979-b66c-319740ea362c.png)
+
+
+
+
+Datdata course and project at UDEMY.
+
+* [Course](https://www.udemy.com/course/power-bi-query-editor/)
+
 
 Data transformation using Power Query Editor functions to create dashboard-type reports.
 
+* [Dataset](https://www.kaggle.com/datasets/nitinsss/military-expenditure-of-countries-19602019)
 
 ### Power Query transformations
 
